@@ -28,11 +28,8 @@ Na listagem, liste todas receitas do arquivo.
   <img src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/mockup-detalhe-receita.png" />
 </div>
 
-Ao clicar em uma receita agora o usuário deve ser redirecionado para uma nova página contendo todas informações da receita como ingredientes, modo de preparo e informações adicionais.
-
-Todas essas informações estão contidas no arquivo `data.js`.
-
-Na página de listagem não é mais necessário abrir o model como tínhamos no desafio anterior do Foodfy.
+- Ao clicar em uma receita agora o usuário deve ser redirecionado para uma nova página contendo todas informações da receita como ingredientes, modo de preparo e informações adicionais (todas essas informações estão contidas no arquivo `data.js`).
+- Na página de listagem não é mais necessário abrir o modal como tínhamos no desafio anterior do Foodfy.
 
 **Download dos arquivos:** https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/archive/master.zip
 

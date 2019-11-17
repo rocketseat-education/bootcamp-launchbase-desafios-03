@@ -30,7 +30,7 @@
 
 ## 🚀 Desafios
 
-- [Construindo Foodfy](desafios/01-foodfy.md)
+- [Refatorando Foodfy](desafios/01-refatorando-foodfy.md)
 
 ## 📅 Entrega
 

@@ -35,7 +35,7 @@ Na listagem, liste todas receitas do arquivo.
 
 Acesse o arquivo `layouts/specs/index.html` para ver todas especificações do layout da página.
 
-*Obs.: A página do detalhe da receita precisa buscar no arquivo `data.js` apenas a receita desejada pelo usuário, por isso você usará de parâmetros na rota dessa página, por exemplo: `http://localhost:3000/recipes/3`, nesse caso estaríamos acessando os detalhes da receita com ID 3*
+*Obs.: A página do detalhe da receita precisa buscar no arquivo `data.js` apenas a receita desejada pelo usuário, por isso você usará de parâmetros na rota dessa página, por exemplo: `http://localhost:3000/recipes/3`, nesse caso estaríamos acessando os detalhes da receita com índice 3 no array de receitas (receipts[3]).*
 
 Para obter um ID da receita através da URL no Node.js você vai usar conforme o exemplo:
 

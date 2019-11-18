@@ -10,7 +10,7 @@ Agora que conhecemos sobre Node.js vamos tornar a exibição dos dados mais din�
 
 Crie um arquivo `data.js` na raiz do seu projeto com o conteúdo do link abaixo:
 
-[Arquivo data.js](http://teste.com)
+[Arquivo data.js](https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/01-refatorando-foodfy.md)
 
 ## Alterações no projeto
 

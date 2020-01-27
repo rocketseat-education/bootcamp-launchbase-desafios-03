@@ -28,7 +28,7 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio você deve atualizar os arquivos courses e about para o formato nunjucks (.njk) e colocar as informações de cursos e descrição de forma dinâmica.
+Nesse desafio você deve atualizar os arquivos com informações de cursos e descrição de forma dinâmica.
 
 ### Estilização
 

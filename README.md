@@ -1,45 +1,46 @@
 <h1 align="center">
-    <img alt="Launchbase" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-launchbase.png" width="250px" />
+    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
 </h1>
 
 <h3 align="center">
-  Desafios: Iniciando no Back-end
+  Desafios Módulo 3 - Iniciando no Back-end
 </h3>
 
-<blockquote align="center">“Faça seu melhor, mas sempre com prazo de entrega”!</blockquote>
+<blockquote align="center">“Faça seu melhor, mas sempre com prazo de entrega!”</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-launchbase-desafios-03?color=%23F7DF1E">
 
   <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F7DF1E">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F7DF1E">
-
-  <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-launchbase-desafios-03?style=social">
+  <a href="LICENSE" >
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
+
 </p>
 
 <p align="center">
-  <a href="#-desafios">Sobre os desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-  <a href="#-licença">Licença</a>
+  <a href="#rocket-desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="#memo-licença">Licença</a>
 </p>
 
-## 🚀 Desafios
+## :rocket: Desafios
 
-- [Refatorando Foodfy](desafios/01-refatorando-foodfy.md)
+- [Primeiro servidor](desafios/03-1-primeiro-servidor.md)
+- [Arquivos nunjucks e dados dinâmicos](desafios/03-2-nunjucks-e-dados-dinamicos.md)
+- [Página de descrição do curso](desafios/03-3-pagina-descricao-curso.md)
+- [Refatorando Foodfy](desafios/03-refatorando-foodfy.md)
 
-## 📅 Entrega
+## :calendar: Entrega
 
-Esse desafio **não precisa ser entregue** e não receberá correção. Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
+Esses desafios **não precisam ser entregues** e não receberão correção. Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
 
-## 📝 Licença
+## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com :purple_heart: by [Rocketseat](https://rocketseat.com.br) :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)

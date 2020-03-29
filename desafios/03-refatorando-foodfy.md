@@ -67,10 +67,10 @@ Para obter um ID da receita através da URL no Node.js você vai usar conforme o
 
 ```js
 server.get("/recipes/:index", function (req, res) {
-  const recipes = [...]; // Array de receitas carregadas do data.js
+  const recipes = data.recipes; // Array de receitas carregadas do data.js
   const recipeIndex = req.params.index;
 
-  console.log(receipts[recipeIndex]);
+  console.log(recipes[recipeIndex]);
 })
 ```
 

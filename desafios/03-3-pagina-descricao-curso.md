@@ -51,7 +51,7 @@ server.get("/courses/:id", function(req, res) {
 ### Fórum
 
 Se houver mais dúvida sobre o desafio, essa thread no fórum poderá ser útil para você 💜 
-https://skylab.rocketseat.com.br/h/forum/launchbase/07c66e6d-06ff-4cfb-baf2-b5b27be6ac8b
+https://app.rocketseat.com.br/h/forum/launchbase/07c66e6d-06ff-4cfb-baf2-b5b27be6ac8b
 
 ### Estilização
 

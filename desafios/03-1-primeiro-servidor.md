@@ -40,7 +40,7 @@ _Erro 404 é comum aparecer em páginas da internet, quando não foi encontrado 
 - `not-found.njk`: Arquivo referente à pagina de erro 404, deve ser servido quando for realizada uma requisição à uma página que não existe. Esse arquivo deve ter:
 
   - Layout.njk como base
-  - Ter um texto infortivo sobre o erro
+  - Ter um texto informativo sobre o erro
 
   Dica: Para capturar essas requisições, basta adicionar esse trecho após **todas** as rotas no seu `server.js`:
 
